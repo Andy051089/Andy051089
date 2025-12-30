@@ -21,6 +21,7 @@
 ![Gradio](https://img.shields.io/badge/Gradio-FFBB00?style=for-the-badge&logo=gradio&logoColor=white)
 -   Databases
 
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ##  LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/andy14532)
 ##  Repositories' Spotlights
