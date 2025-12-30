@@ -17,10 +17,8 @@
     -   Dermatology
     -   Ophthalmology, Otorhinolaryngology
 ##  Program Languages
--   Python
--   R
--   SQL
--   SAS
+-   Python      -   SQL
+-   R           -   SAS
 ##  Repositories' Spotlights
 -   aicup-warning-account-prediction-2025
     - Competition, Real world dataset, GNN, Positve-Unlabeled Learning, 1st place
