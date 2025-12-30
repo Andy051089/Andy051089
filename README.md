@@ -17,8 +17,12 @@
     -   Dermatology
     -   Ophthalmology, Otorhinolaryngology
 ##  Program Languages
--   Python      -   SQL
--   R           -   SAS
+-   Python
+-   SQL
+-   R
+-   SAS
+##  LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/andy14532)
 ##  Repositories' Spotlights
 -   aicup-warning-account-prediction-2025
     - Competition, Real world dataset, GNN, Positve-Unlabeled Learning, 1st place
