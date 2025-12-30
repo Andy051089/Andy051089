@@ -11,11 +11,11 @@
 -   Duration
     -   October 2020 to July 2024
 -   Departments
-    -   COVID
-    -   Cardio
-    -   MO
-    -   DERM
-    -   ENT
+    -   Covid
+    -   Cardiology
+    -   Oncology
+    -   Dermatology
+    -   Ophthalmology, Otorhinolaryngology
 ##  Repositories' Spotlights
 -   aicup-warning-account-prediction-2025
     - Competition, Real world dataset, GNN, Positve-Unlabeled Learning
