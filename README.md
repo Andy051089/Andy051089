@@ -21,8 +21,6 @@
 ![Gradio](https://img.shields.io/badge/Gradio-FFBB00?style=for-the-badge&logo=gradio&logoColor=white)
 -   Databases
 
-<img src="https://cdn.simpleicons.org/gradio/FFBB00" width="40" height="40" />
-
 ##  LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/andy14532)
 ##  Repositories' Spotlights
