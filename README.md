@@ -21,7 +21,6 @@
     - Competition, Real world dataset, GNN, Positve-Unlabeled Learning
 -   multidata-integration-heart-failure-prediction
     -   Real world dataset, Large Language Models, UI 
-    - Competition, Real world dataset, GNN, Positve-Unlabeled Learning
 -   NSCLC-5-year-surivial-prediction
     -   Real world dataset, End-to-End project from raw database using MSSQL
 -   american-society-of-anesthesiologists-prediction
