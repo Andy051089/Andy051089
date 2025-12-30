@@ -14,9 +14,9 @@
         -   Ophthalmology, Otorhinolaryngology
 ##  Tech Stack
 -   Languages
-    -   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FFBB00?style=for-the-badge&logo=gradio&logoColor=white)
 -   Frameworks
-    -   ![Gradio](https://img.shields.io/badge/Gradio-FFBB00?style=for-the-badge&logo=gradio&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FFBB00?style=for-the-badge&logo=gradio&logoColor=white)
 -   Databases
 ##  LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/andy14532)
