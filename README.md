@@ -20,9 +20,9 @@
 -   aicup-warning-account-prediction-2025
     - Competition, Real world dataset, GNN, Positve-Unlabeled Learning
 -   multidata-integration-heart-failure-prediction
-    -   Real world dataset, Large Language Models, UI 
+    -   Real world dataset, Large Language Models, End-to-end project from raw database, UI 
 -   NSCLC-5-year-surivial-prediction
-    -   Real world dataset, End-to-End project from raw database using MSSQL
+    -   Real world dataset, End-to-end project from raw database using MSSQL
 -   american-society-of-anesthesiologists-prediction
     - Competition, Real world dataset
 -   diabetes-mellitus-prediction
