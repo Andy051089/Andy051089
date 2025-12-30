@@ -1,5 +1,6 @@
 ## Hi there 👋
-https://github-readme-stats.vercel.app/api?username=Andy051089&show_icons=true
+![Stats](https://github-readme-stats.vercel.app/api?username=Andy051089&show_icons=true)
+
 <!--
 **Andy051089/Andy051089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
