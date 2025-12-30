@@ -1,4 +1,15 @@
-#  profile
+#  Profile
+##  Name
+-   張哲安 Chang, Che-An
+##  Education:
+-   Taipei Medical University, Institute of Data Science
+##  Working Experience
+-   Hospital
+    -   Taipei Veterans General Hospital
+-   Career Position
+    -   N2 Nurse
+-   Duration
+    -   October 2020 to July 2024
 <!--
 **Andy051089/Andy051089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
