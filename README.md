@@ -8,7 +8,7 @@
 -   Explainability : Experienced in Interpretable AI, leveraging XAI techniques to ensure model transparency
 ##  Education & Working Experience
 -   Education
-    -   Taipei Medical University, Institute of Data Science (2024 - )
+    -   Taipei Medical University, Institute of Data Science (2024 - Present)
 -   Working Experience
     -   Taipei Veterans General Hospital - N2 Nurse (October 2020 to July 2024)
     -   Departments
@@ -27,27 +27,27 @@
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=DuckDB&logoColor=black) 
 -   AI
 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge&logo=XGBoost&logoColor=white) ![PyCaret](https://img.shields.io/badge/PyCaret-635BFF?style=for-the-badge&logo=PyCaret&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge&logo=XGBoost&logoColor=white) ![PyCaret](https://img.shields.io/badge/PyCaret-635BFF?style=for-the-badge&logo=PyCaret&logoColor=white) 
+
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 
 ![PyG](https://img.shields.io/badge/PyG-3C1053?style=for-the-badge&logo=pytorch-lightning&logoColor=white) *(torch-geometric)* ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=SHAP&logoColor=white)
 -   Framework
 
 ![Gradio](https://img.shields.io/badge/Gradio-FFBB00?style=for-the-badge&logo=gradio&logoColor=white)
-<!-- ##  LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/andy14532) -->
 ##  Repositories' Spotlights
 -   **[aicup-warning-account-prediction-2025](https://github.com/Andy051089/aicup-warning-account-prediction-2025)**
-    -   `Competition (National 1st place)` `Real world dataset` `GNN` `Positve-Unlabeled Learning`
+    -   `Competition (National 1st place)` `Real world dataset` `GNN` `Positive-Unlabeled Learning`
 -   **[multidata-integration-heart-failure-prediction](multidata-integration-heart-failure-prediction)**
     -   `End-to-End project from raw database` `Real world dataset` `LLMs` `UI` `SHAP`
--   **[NSCLC-5-year-surivial-prediction](https://github.com/Andy051089/NSCLC-5-year-surivial-prediction)**
+-   **[NSCLC-5-year-survival-prediction](https://github.com/Andy051089/NSCLC-5-year-survival-prediction)**
     -   `End-to-End project from raw database` `Real world dataset` `SHAP`
 -   **[american-society-of-anesthesiologists-prediction](https://github.com/Andy051089/american-society-of-anesthesiologists-prediction)**
     -   `Competition (1st place)` `Real world dataset`
 -   **[medical-conditions-prediction](https://github.com/Andy051089/medical-conditions-prediction)**
-    -   `Competition (2st place)` `Multi-BERT fusion strategies`
+    -   `Competition (2nd place)` `Multi-BERT fusion strategies`
 -   **[sunscreen-purchase-intention-analysis](https://github.com/Andy051089/sunscreen-purchase-intention-analysis)**
-    -   `Statistical analysis`
+    -   `Statistical analysis` `Questionnaire`
 -   **[diabetes-mellitus-prediction](https://github.com/Andy051089/diabetes-mellitus-prediction)**
     -   `Self learning on pre-master` `SHAP`
 <!--
