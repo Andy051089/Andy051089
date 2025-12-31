@@ -12,11 +12,9 @@
 -   Working Experience
     -   Taipei Veterans General Hospital - N2 Nurse (October 2020 to July 2024)
     -   Departments
-        -   Covid
         -   Cardiology
         -   Oncology
-        -   Dermatology
-        -   Ophthalmology, Otorhinolaryngology
+        -   COVID-19 Isolation Ward
 ##  Tech Stack
 -   Languages
 
