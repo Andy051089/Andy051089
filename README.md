@@ -28,6 +28,7 @@
 -   AI
 
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge&logo=XGBoost&logoColor=white) ![PyCaret](https://img.shields.io/badge/PyCaret-635BFF?style=for-the-badge&logo=PyCaret&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+
 ![PyG](https://img.shields.io/badge/PyG-3C1053?style=for-the-badge&logo=pytorch-lightning&logoColor=white) *(torch-geometric)* ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=SHAP&logoColor=white)
 -   Framework
 
