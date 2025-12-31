@@ -3,7 +3,7 @@
 -   Domain Knowledge : Working experience in Healthcare, bridging clinical insights with technical solutions to solve real-world medical challenges
 -   End-to-End Workflow : Proficient in the full data lifecycle — extracting and integrating real-world raw data from database, processing data and model deployment
     -   Real-World Dataset
-        -   Multi-Center EHR Systems : Major Medical University Healthcare Systems and National Medical Centers
+        -   Multi-Center EHR Systems : Major Medical University Healthcare Systems and National Medical Centers in Taiwan
         -   MIMIC-III
 -   Explainability : Experienced in Interpretable AI, leveraging XAI techniques to ensure model transparency
 ##  Education & Working Experience
@@ -31,18 +31,18 @@
 -   Framework
 
 ![Gradio](https://img.shields.io/badge/Gradio-FFBB00?style=for-the-badge&logo=gradio&logoColor=white)
-##  LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/andy14532)
+<!-- ##  LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/andy14532) -->
 ##  Repositories' Spotlights
--   aicup-warning-account-prediction-2025
-    - Competition, Real world dataset, GNN, Positve-Unlabeled Learning, 1st place
--   multidata-integration-heart-failure-prediction
-    -   Real world dataset, Large Language Models, End-to-end project from raw database, UI 
--   NSCLC-5-year-surivial-prediction
-    -   Real world dataset, End-to-end project from raw database using MSSQL
--   american-society-of-anesthesiologists-prediction
-    - Competition, Real world dataset
--   diabetes-mellitus-prediction
+-   **aicup-warning-account-prediction-2025**
+    - Competition (1st place) | Real world dataset | GNN | Positve-Unlabeled Learning
+-   **multidata-integration-heart-failure-prediction**
+    -   End-to-End project from raw database | Real world dataset | Large Language Models | UI 
+-   **NSCLC-5-year-surivial-prediction**
+    -   End-to-end project from raw database using MSSQL | Real world dataset
+-   **american-society-of-anesthesiologists-prediction**
+    - Competition (1st place) | Real world dataset
+-   **diabetes-mellitus-prediction**
     -   Self learning on pre-master
 <!--
 **Andy051089/Andy051089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
