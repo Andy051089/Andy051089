@@ -1,12 +1,11 @@
 #  張哲安 Chang, Che-An (Andy Chang)
 ###   Multidisciplinary | Healthcare x AI x Big data
->   Domain Knowledge : Working experience in Healthcare, bridging clinical insights with technical solutions to solve real-world medical challenges
-
->   End-to-End Workflow : Proficient in the full data lifecycle — extracting and integrating real-world raw data from database, processing data and model deployment
--   Real-World Dataset
-    -   Multi-Center EHR Systems : Major Medical University Healthcare Systems and National Medical Centers
-    -   MIMIC-III
->   Explainability : Experienced in Interpretable AI, leveraging XAI techniques to ensure model transparency
+-   Domain Knowledge : Working experience in Healthcare, bridging clinical insights with technical solutions to solve real-world medical challenges
+-   End-to-End Workflow : Proficient in the full data lifecycle — extracting and integrating real-world raw data from database, processing data and model deployment
+    -   Real-World Dataset
+        -   Multi-Center EHR Systems : Major Medical University Healthcare Systems and National Medical Centers
+        -   MIMIC-III
+-   Explainability : Experienced in Interpretable AI, leveraging XAI techniques to ensure model transparency
 ##  Education & Working Experience
 -   Education
     -   Taipei Medical University, Institute of Data Science (2024 - )
