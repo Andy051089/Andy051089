@@ -34,16 +34,20 @@
 <!-- ##  LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/andy14532) -->
 ##  Repositories' Spotlights
--   **aicup-warning-account-prediction-2025**
-    - Competition (1st place) | Real world dataset | GNN | Positve-Unlabeled Learning
--   **multidata-integration-heart-failure-prediction**
-    -   End-to-End project from raw database | Real world dataset | Large Language Models | UI 
--   **NSCLC-5-year-surivial-prediction**
-    -   End-to-end project from raw database using MSSQL | Real world dataset
--   **american-society-of-anesthesiologists-prediction**
-    - Competition (1st place) | Real world dataset
--   **diabetes-mellitus-prediction**
-    -   Self learning on pre-master
+-   **[aicup-warning-account-prediction-2025](https://github.com/Andy051089/aicup-warning-account-prediction-2025)**
+    -   `Competition (National 1st place)` `Real world dataset` `GNN` `Positve-Unlabeled Learning`
+-   **[multidata-integration-heart-failure-prediction](multidata-integration-heart-failure-prediction)**
+    -   `End-to-End project from raw database` `Real world dataset` `LLMs` `UI` `SHAP`
+-   **[NSCLC-5-year-surivial-prediction](https://github.com/Andy051089/NSCLC-5-year-surivial-prediction)**
+    -   `End-to-End project from raw database` `Real world dataset` `SHAP`
+-   **[american-society-of-anesthesiologists-prediction](https://github.com/Andy051089/american-society-of-anesthesiologists-prediction)**
+    -   `Competition (1st place)` `Real world dataset`
+-   **[medical-conditions-prediction](https://github.com/Andy051089/medical-conditions-prediction)**
+    -   `Competition (2st place)` `Multi-BERT fusion strategies`
+-   **[sunscreen-purchase-intention-analysis](https://github.com/Andy051089/sunscreen-purchase-intention-analysis)**
+    -   `Statistical analysis`
+-   **[diabetes-mellitus-prediction](https://github.com/Andy051089/diabetes-mellitus-prediction)**
+    -   `Self learning on pre-master` `SHAP`
 <!--
 **Andy051089/Andy051089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
