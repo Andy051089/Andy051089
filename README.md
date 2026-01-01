@@ -41,9 +41,9 @@
 -   **[NSCLC-5-year-survival-prediction](https://github.com/Andy051089/NSCLC-5-year-survival-prediction)**
     -   `End-to-End project from raw database` `Real world dataset` `SHAP`
 -   **[american-society-of-anesthesiologists-prediction](https://github.com/Andy051089/american-society-of-anesthesiologists-prediction)**
-    -   `Competition (1st place)` `Real world dataset`
+    -   `Competition (In-class 1st place)` `Real world dataset`
 -   **[medical-conditions-prediction](https://github.com/Andy051089/medical-conditions-prediction)**
-    -   `Competition (2nd place)` `Multi-BERT fusion strategies`
+    -   `Competition (In-class 2nd place)` `Multi-BERT fusion strategies`
 -   **[sunscreen-purchase-intention-analysis](https://github.com/Andy051089/sunscreen-purchase-intention-analysis)**
     -   `Statistical analysis` `Questionnaire`
 -   **[diabetes-mellitus-prediction](https://github.com/Andy051089/diabetes-mellitus-prediction)**
