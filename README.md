@@ -40,7 +40,7 @@
 ##  Repositories' Spotlights
 -   **[aicup-warning-account-prediction-2025](https://github.com/Andy051089/aicup-warning-account-prediction-2025)**
     -   `Competition (National 1st place)` `Real world dataset` `GNN` `Positive-Unlabeled Learning`
--   **[multidata-integration-heart-failure-prediction](multidata-integration-heart-failure-prediction)**
+-   **[multidata-integration-heart-failure-prediction](https://github.com/Andy051089/multidata-integration-heart-failure-prediction)**
     -   `End-to-End project from raw database` `Real world dataset` `LLMs` `UI` `SHAP`
 <!--
 -   **[NSCLC-5-year-survival-prediction](https://github.com/Andy051089/NSCLC-5-year-survival-prediction)**
