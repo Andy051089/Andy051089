@@ -42,18 +42,22 @@
 ##  Repositories' Spotlights
 -   **[aicup-warning-account-prediction-2025](https://github.com/Andy051089/aicup-warning-account-prediction-2025)**
     -   `Competition (National 1st place)` `Real world dataset` `GNN` `Positive-Unlabeled Learning`
--   **[multidata-integration-heart-failure-prediction](multidata-integration-heart-failure-prediction)**
+-   **[multidata-integration-heart-failure-prediction](https://github.com/Andy051089/multidata-integration-heart-failure-prediction)**
     -   `End-to-End project from raw database` `Real world dataset` `LLMs` `UI` `SHAP`
+<!--
 -   **[NSCLC-5-year-survival-prediction](https://github.com/Andy051089/NSCLC-5-year-survival-prediction)**
     -   `End-to-End project from raw database` `Real world dataset` `SHAP`
 -   **[american-society-of-anesthesiologists-prediction](https://github.com/Andy051089/american-society-of-anesthesiologists-prediction)**
     -   `Competition (In-class 1st place)` `Real world dataset`
 -   **[medical-conditions-prediction](https://github.com/Andy051089/medical-conditions-prediction)**
     -   `Competition (In-class 2nd place)` `Multi-BERT fusion strategies`
+-->
 -   **[sunscreen-purchase-intention-analysis](https://github.com/Andy051089/sunscreen-purchase-intention-analysis)**
     -   `Statistical analysis` `Questionnaire`
+<!--
 -   **[diabetes-mellitus-prediction](https://github.com/Andy051089/diabetes-mellitus-prediction)**
     -   `Self learning on pre-master` `SHAP`
+-->
 <!--
 **Andy051089/Andy051089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
