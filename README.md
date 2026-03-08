@@ -10,6 +10,8 @@
 ##  Education & Working Experience
 -   Education
     -   Taipei Medical University, Institute of Data Science (2024 - Present)
+        -   Main Focuses : Clinical big data analytics, Natural language processing
+        -   Core Technologies : Imbalanced data handling, Graph neural networks (GNNs), Transfer learning, Large language models and prompt engineering, Explainable AI
 -   Working Experience
     -   Taipei Veterans General Hospital - N2 Nurse (October 2020 to July 2024)
     -   Departments
