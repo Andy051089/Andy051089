@@ -6,7 +6,7 @@
         -   Multi-Center EHR Systems : Major Medical University Healthcare Systems and National Medical Centers in Taiwan
         -   MIMIC-III
 -   Explainability : Experienced in Interpretable AI, leveraging XAI techniques to ensure model transparency
--   Competition Experience : 1st place winner in national AI CUP. Processed real-world financial datasets and faced practical industry challenges
+-   Competition Experience : 1st place winner in national AI CUP. Processed real-world financial datasets and having experience in using cloud service Amazon Sagemaker AI. 2st place winner in 2025 Teachers and Students Joint Academic Research Symposium
 ##  Education & Working Experience
 -   Education
     -   Taipei Medical University, Institute of Data Science (2024 - Present)
@@ -32,7 +32,7 @@
 
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 
-![PyG](https://img.shields.io/badge/PyG-3C1053?style=for-the-badge&logo=pytorch-lightning&logoColor=white) *(torch-geometric)* ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=SHAP&logoColor=white)
+![PyG](https://img.shields.io/badge/PyG-3C1053?style=for-the-badge&logo=pytorch-lightning&logoColor=white) *(torch-geometric)* ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Google GenAI](https://img.shields.io/badge/Google%20GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=SHAP&logoColor=white)
 -   Cloud
 
 ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker%20AI-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -58,6 +58,14 @@
 -   **[diabetes-mellitus-prediction](https://github.com/Andy051089/diabetes-mellitus-prediction)**
     -   `Self learning on pre-master` `SHAP`
 -->
+##  Competition Experience
+-   AI CUP 2025 ESUN AI Competition (September 2025 to December 2025)
+    -   National Champion in Preliminary & Final Rounds
+        -   Incorporated new variables and external data via Amazon SageMaker AI to retrain and redeploy models within a 90-minute timeframe during the competition finals
+-   2025 Teachers and Students Joint Academic Research Symposium (May 2025)
+    -   Second Place
+        -   Topic: Leveraging Large Language Models and Prompt Engineering for Feature Extraction in Electronic Health Records
+
 <!--
 **Andy051089/Andy051089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
