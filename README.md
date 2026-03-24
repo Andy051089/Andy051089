@@ -11,7 +11,7 @@
 -   Education
     -   Taipei Medical University, Institute of Data Science (2024 - Present)
         -   Main Focuses : Clinical big data analytics, Natural language processing
-        -   Core Technologies : Imbalanced data handling, Graph neural networks (GNNs), Transfer learning, Large language models and prompt engineering, Explainable AI
+        -   Core Technologies : Imbalanced data handling, Graph neural networks (GNNs), Transfer learning, Large language models, Explainable AI
 -   Working Experience
     -   Taipei Veterans General Hospital - N2 Nurse (October 2020 to July 2024)
     -   Departments
@@ -32,7 +32,7 @@
 
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 
-![PyG](https://img.shields.io/badge/PyG-3C1053?style=for-the-badge&logo=pytorch-lightning&logoColor=white) *(torch-geometric)* ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Google GenAI](https://img.shields.io/badge/Google%20GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=SHAP&logoColor=white)
+![PyG](https://img.shields.io/badge/PyG-3C1053?style=for-the-badge&logo=pytorch-lightning&logoColor=white) *(torch-geometric)* ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Google GenAI](https://img.shields.io/badge/Google%20GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Unsloth](https://img.shields.io/badge/Unsloth-4CAF50?style=for-the-badge&logo=unsloth&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=SHAP&logoColor=white)
 -   Cloud
 
 ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker%20AI-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
